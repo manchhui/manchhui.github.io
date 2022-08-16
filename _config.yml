@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: https://manchhui.github.io
+source: manchhui.github.io
 incremental: false
 highlighter: rouge
 gist:
